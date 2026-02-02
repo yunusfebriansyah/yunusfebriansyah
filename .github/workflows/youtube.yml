@@ -1,0 +1,21 @@
+name: Latest YouTube Videos
+
+on:
+  schedule:
+    # Jalan otomatis setiap jam
+    - cron: '0 * * * *'
+  workflow_dispatch: # Supaya bisa di-klik manual
+
+jobs:
+  update-readme-with-youtube:
+    name: Update this repo's README with latest videos from YouTube
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "YOUTUBE"
+          # GANTI BAGIAN BAWAH INI DENGAN CHANNEL ID YANG MAS YUNUS COPY TADI
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC5Ar5ATse2VUS_6HPiQNbLw"
+          max_post_count: 3 # Jumlah video yang mau ditampilkan
