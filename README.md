@@ -37,9 +37,9 @@
 
 <h3 align="center">▶️ New Videos</h3>
 <!-- YOUTUBE:START -->
-- [Day 7 | Keluarga](https://www.youtube.com/watch?v=UG-N_xnnWGg)
-- [Day 6 | Yogyakarta - Wonogiri](https://www.youtube.com/watch?v=gDG-wNGbdEo)
-- [Day 5 | Merapi, Bukit Bintang](https://www.youtube.com/watch?v=asnhQuM6PPo)
+- [04 Sharing Project Docker | Tutorial Docker Untuk Pemula 🔥](https://www.youtube.com/watch?v=IyeMieOeuJ4)
+- [03 Buat Project PHP &amp; MySQL Tanpa XAMPP | Tutorial Docker Untuk Pemula 🔥](https://www.youtube.com/watch?v=UkOskawmNjg)
+- [Kamus Wajib Docker 🔥](https://www.youtube.com/shorts/wvk4GymFCXQ)
 <!-- YOUTUBE:END -->
 
 <br/>
