@@ -41,6 +41,10 @@
   <img src="https://github.com/yunusfebriansyah/yunusfebriansyah/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
+<h3 align="center">▶️ New Videos</h3>
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
