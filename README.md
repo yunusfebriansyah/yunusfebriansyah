@@ -37,6 +37,9 @@
 
 <h3 align="center">▶️ New Videos</h3>
 <!-- YOUTUBE:START -->
+- [Day 7 | Keluarga](https://www.youtube.com/watch?v=UG-N_xnnWGg)
+- [Day 6 | Yogyakarta - Wonogiri](https://www.youtube.com/watch?v=gDG-wNGbdEo)
+- [Day 5 | Merapi, Bukit Bintang](https://www.youtube.com/watch?v=asnhQuM6PPo)
 <!-- YOUTUBE:END -->
 
 <br/>
