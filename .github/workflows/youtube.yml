@@ -2,7 +2,6 @@ name: Latest YouTube Videos
 
 on:
   schedule:
-    # Update setiap jam
     - cron: '0 * * * *'
   workflow_dispatch:
 
@@ -16,8 +15,10 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "YOUTUBE"
-          # GANTI CHANNEL ID DI BAWAH INI DENGAN ID ANDA
+          # Pastikan Channel ID di bawah ini sudah benar punya Mas Yunus
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC8KFFLw4MCeYzN28JN31NUw"
-          max_post_count: 2
-          # Baris di bawah ini yang bikin ada gambarnya:
-          template: "<table><tr><td width='140px' align='center'><a href='$url'><img src='$image' height='80px' width='140px'></a></td><td><a href='$url'>$title</a><br/>$date</td></tr></table>"
+          max_post_count: 5
+          # Kita ambil paksa ID Videonya:
+          custom_tags: "videoId/yt:videoId/"
+          # Kita susun link gambar secara manual pakai ID tersebut:
+          template: "<table><tr><td width='140px' align='center'><a href='$url'><img src='https://i.ytimg.com/vi/$videoId/mqdefault.jpg' height='80px' width='140px'></a></td><td><a href='$url'>$title</a><br/>$date</td></tr></table>"
