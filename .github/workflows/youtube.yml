@@ -17,7 +17,7 @@ jobs:
           comment_tag_name: "YOUTUBE"
           # Pastikan Channel ID di bawah ini sudah benar punya Mas Yunus
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC8KFFLw4MCeYzN28JN31NUw"
-          max_post_count: 5
+          max_post_count: 2
           # Kita ambil paksa ID Videonya:
           custom_tags: "videoId/yt:videoId/"
           # Kita susun link gambar secara manual pakai ID tersebut:
