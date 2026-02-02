@@ -35,15 +35,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yunusfebriansyah&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak graph" />
 </div>
 
+<h3 align="center">▶️ New Videos</h3>
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 <br/>
 
 <div align="center">
   <img src="https://github.com/yunusfebriansyah/yunusfebriansyah/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
-
-<h3 align="center">▶️ New Videos</h3>
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
