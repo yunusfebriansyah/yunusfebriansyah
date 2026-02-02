@@ -32,19 +32,6 @@
 <h3 align="center">🏆 Achievements</h3>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=yunusfebriansyah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusfebriansyah&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yunusfebriansyah&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak graph" />
 </div>
 
