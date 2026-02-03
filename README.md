@@ -32,7 +32,11 @@
 <h3 align="center">🏆 Achievements</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yunusfebriansyah&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yunusfebriansyah&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
+  
+  <br/>
+  
+  <img src="https://streak-stats.demolab.com/?user=yunusfebriansyah&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak graph" />
 </div>
 
 <h3 align="center">▶️ New Videos</h3>
