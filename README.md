@@ -29,14 +29,14 @@
 
 <br/>
 
-<h3 align="center">🏆 Achievements</h3>
+<h3 align="center">🏆 Achievements & Stats</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yunusfebriansyah&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yunusfebriansyah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yunus Stats" />
   
   <br/>
   
-  <img src="https://streak-stats.demolab.com/?user=yunusfebriansyah&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusfebriansyah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <h3 align="center">▶️ New Videos</h3>
