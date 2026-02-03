@@ -32,7 +32,9 @@
 <h3 align="center">🏆 Achievements & Stats</h3>
 
 <div align="center">
-  <img src="https://github.com/yunusfebriansyah/yunusfebriansyah/blob/master/github-metrics.svg?raw=true" alt="Metrics" width="100%"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yunusfebriansyah&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak graph" />
+
 </div>
 
 <h3 align="center">▶️ New Videos</h3>
