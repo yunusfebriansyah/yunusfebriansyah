@@ -1,0 +1,27 @@
+name: Metrics
+on:
+  # Update setiap hari jam 00:00
+  schedule: [{cron: "0 0 * * *"}]
+  # Bisa dijalankan manual
+  workflow_dispatch:
+  # Jalan setiap ada update di branch master/main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Nama file yang akan dibuat
+          filename: github-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # Pengaturan Isi Statistik
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Jakarta
+          
+          # Plugin Bahasa (Agar muncul grafik bahasa)
+          plugin_languages: yes
+          plugin_languages_limit: 8
