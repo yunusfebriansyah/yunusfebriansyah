@@ -32,11 +32,7 @@
 <h3 align="center">🏆 Achievements & Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yunusfebriansyah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yunus Stats" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusfebriansyah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github.com/yunusfebriansyah/yunusfebriansyah/blob/master/github-metrics.svg?raw=true" alt="Metrics" width="100%"/>
 </div>
 
 <h3 align="center">▶️ New Videos</h3>
