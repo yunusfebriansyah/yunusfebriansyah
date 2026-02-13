@@ -38,7 +38,7 @@
 </div>
 
 <h3 align="center">▶️ New Videos</h3>
-<!-- YOUTUBE:START --><table><tr><td width='140px' align='center'><a href='https://www.youtube.com/shorts/L2qALj1bEJ8'><img src='https://i.ytimg.com/vi/L2qALj1bEJ8/mqdefault.jpg' height='80px' width='140px'></a></td><td><a href='https://www.youtube.com/shorts/L2qALj1bEJ8'>Exclusive Mentoring? DM AJA ‼️</a><br/>Mon Feb 09 2026 5:21 PM</td></tr></table><table><tr><td width='140px' align='center'><a href='https://www.youtube.com/watch?v=IyeMieOeuJ4'><img src='https://i.ytimg.com/vi/IyeMieOeuJ4/mqdefault.jpg' height='80px' width='140px'></a></td><td><a href='https://www.youtube.com/watch?v=IyeMieOeuJ4'>04 Sharing Project Docker | Tutorial Docker Untuk Pemula 🔥</a><br/>Mon Jan 19 2026 5:21 AM</td></tr></table><!-- YOUTUBE:END -->
+<!-- YOUTUBE:START --><table><tr><td width='140px' align='center'><a href='https://www.youtube.com/watch?v=40nVWuF_o-Y'><img src='https://i.ytimg.com/vi/40nVWuF_o-Y/mqdefault.jpg' height='80px' width='140px'></a></td><td><a href='https://www.youtube.com/watch?v=40nVWuF_o-Y'>AI Bantuin Tugas Kuliah: Solusi atau Boommerang?</a><br/>Fri Feb 13 2026 9:43 AM</td></tr></table><table><tr><td width='140px' align='center'><a href='https://www.youtube.com/shorts/L2qALj1bEJ8'><img src='https://i.ytimg.com/vi/L2qALj1bEJ8/mqdefault.jpg' height='80px' width='140px'></a></td><td><a href='https://www.youtube.com/shorts/L2qALj1bEJ8'>Exclusive Mentoring? DM AJA ‼️</a><br/>Mon Feb 09 2026 5:21 PM</td></tr></table><!-- YOUTUBE:END -->
 
 <br/>
 
