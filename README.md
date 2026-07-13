@@ -38,7 +38,7 @@
 </div>
 
 <h3 align="center">▶️ New Videos</h3>
-<!-- YOUTUBE:START --><table><tr><td width='140px' align='center'><a href='https://www.youtube.com/watch?v=JeKFjJjZ0dY'><img src='https://i.ytimg.com/vi/JeKFjJjZ0dY/mqdefault.jpg' height='80px' width='140px'></a></td><td><a href='https://www.youtube.com/watch?v=JeKFjJjZ0dY'>Business Process dan Product Thinking | Rahasia Programmer Company</a><br/>Sun Jul 12 2026 12:03 PM</td></tr></table><table><tr><td width='140px' align='center'><a href='https://www.youtube.com/watch?v=40nVWuF_o-Y'><img src='https://i.ytimg.com/vi/40nVWuF_o-Y/mqdefault.jpg' height='80px' width='140px'></a></td><td><a href='https://www.youtube.com/watch?v=40nVWuF_o-Y'>AI Bantuin Tugas Kuliah: Solusi atau Boommerang?</a><br/>Fri Feb 13 2026 9:43 AM</td></tr></table><!-- YOUTUBE:END -->
+<!-- YOUTUBE:START --><table><tr><td width='140px' align='center'><a href='https://www.youtube.com/watch?v=3bbP6WPmTEg'><img src='https://i.ytimg.com/vi/3bbP6WPmTEg/mqdefault.jpg' height='80px' width='140px'></a></td><td><a href='https://www.youtube.com/watch?v=3bbP6WPmTEg'>Multi-role Employee dan AI Daily Basis | Budaya Kerja Zaman Sekarang</a><br/>Mon Jul 13 2026 2:40 PM</td></tr></table><table><tr><td width='140px' align='center'><a href='https://www.youtube.com/watch?v=JeKFjJjZ0dY'><img src='https://i.ytimg.com/vi/JeKFjJjZ0dY/mqdefault.jpg' height='80px' width='140px'></a></td><td><a href='https://www.youtube.com/watch?v=JeKFjJjZ0dY'>Business Process dan Product Thinking | Rahasia Programmer Company</a><br/>Sun Jul 12 2026 12:03 PM</td></tr></table><!-- YOUTUBE:END -->
 
 <br/>
 
