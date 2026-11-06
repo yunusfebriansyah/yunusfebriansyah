@@ -38,7 +38,7 @@
 </div>
 
 <h3 align="center">▶️ New Videos</h3>
-<!-- YOUTUBE:START --><table><tr><td width='140px' align='center'><a href='https://www.youtube.com/watch?v=KGErwsPEuy4'><img src='https://i.ytimg.com/vi/KGErwsPEuy4/mqdefault.jpg' height='80px' width='140px'></a></td><td><a href='https://www.youtube.com/watch?v=KGErwsPEuy4'>Perang Chip AI Dimulai: OpenAI Jalapeño vs Nvidia</a><br/>Tue Oct 06 2026 7:59 AM</td></tr></table><table><tr><td width='140px' align='center'><a href='https://www.youtube.com/watch?v=xfuzDIJd544'><img src='https://i.ytimg.com/vi/xfuzDIJd544/mqdefault.jpg' height='80px' width='140px'></a></td><td><a href='https://www.youtube.com/watch?v=xfuzDIJd544'>Nggak Semua Teknologi Baru Harus Kamu Coba. Ini Alasannya</a><br/>Mon Sep 21 2026 5:30 AM</td></tr></table><!-- YOUTUBE:END -->
+<!-- YOUTUBE:START --><table><tr><td width='140px' align='center'><a href='https://www.youtube.com/watch?v=7lLG8N-eHuw'><img src='https://i.ytimg.com/vi/7lLG8N-eHuw/mqdefault.jpg' height='80px' width='140px'></a></td><td><a href='https://www.youtube.com/watch?v=7lLG8N-eHuw'>Freebuff ‼️ Alternatif Claude Code Gratis yang Wajib Kamu Coba ‼️</a><br/>Fri Nov 06 2026 4:37 AM</td></tr></table><table><tr><td width='140px' align='center'><a href='https://www.youtube.com/watch?v=KGErwsPEuy4'><img src='https://i.ytimg.com/vi/KGErwsPEuy4/mqdefault.jpg' height='80px' width='140px'></a></td><td><a href='https://www.youtube.com/watch?v=KGErwsPEuy4'>Perang Chip AI Dimulai: OpenAI Jalapeño vs Nvidia</a><br/>Tue Oct 06 2026 7:59 AM</td></tr></table><!-- YOUTUBE:END -->
 
 <br/>
 
